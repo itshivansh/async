@@ -1,0 +1,13 @@
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\bin\Debug\netcoreapp3.1\AsyncEx.exe
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\bin\Debug\netcoreapp3.1\AsyncEx.deps.json
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\bin\Debug\netcoreapp3.1\AsyncEx.runtimeconfig.json
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\bin\Debug\netcoreapp3.1\AsyncEx.runtimeconfig.dev.json
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\bin\Debug\netcoreapp3.1\AsyncEx.dll
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\bin\Debug\netcoreapp3.1\AsyncEx.pdb
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.dll
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.pdb
+C:\Users\shivansh\Desktop\CGI_fsd\exercise-async-programming\Asynch\AsyncEx\obj\Debug\netcoreapp3.1\AsyncEx.genruntimeconfig.cache
